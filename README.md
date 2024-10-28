@@ -1,7 +1,4 @@
-## Basic Support Vector Classifier Implementation
-
-### Challenges:
-Hyperparameter Tuning and Cross Validation
+## Support Vector Machine Kernels Indepth Intuition And Practical Explanation
 
 
 ### Setup Instructions
